@@ -1,0 +1,15 @@
+- name: FASB Codification
+  percentage: 95
+  color: info
+
+- name: GAAP
+  percentage: 90
+  color: success
+
+- name: NCUA Regulations
+  percentage: 90
+  color: success
+
+- name: CFPB Regulations
+  percentage: 90
+  color: success

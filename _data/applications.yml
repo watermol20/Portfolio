@@ -1,0 +1,19 @@
+- name: Power BI
+  percentage: 90
+  color: danger
+
+- name: Excel
+  percentage: 80
+  color:
+
+- name: PowerPoint
+  percentage: 70
+  color: dark
+
+- name: Adobe Photoshop
+  percentage: 70
+  color: dark
+
+- name: Skype for Business
+  percentage: 70
+  color: dark
