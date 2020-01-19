@@ -9,12 +9,11 @@ description: The project was to find a stock, track it over the course of the se
 
 The project was to find a stock, track it over the course of the semester and write a short report about the findings and ratios.
 
-<br>
-
-{%- capture list_items -%}
+{% capture list_items %}
 Project Instructions
 Findings
-{%- endcapture -%}
+List
+{% endcapture %}
 {% include elements/list.html title="Table of Contents" type="toc" %}
 
 <br>
