@@ -13,7 +13,6 @@ The project was to find a stock, track it over the course of the semester and wr
 Project Instructions
 Findings
 {%- endcapture -%}
-
 {% include elements/list.html title="Table of Contents" type="toc" %}
 
 <br>

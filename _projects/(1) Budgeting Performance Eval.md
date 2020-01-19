@@ -17,7 +17,6 @@ Cost Accounting provides detailed cost information for management in planning an
 The Report
 Summary
 {%- endcapture -%}
-
 {% include elements/list.html title="Table of Contents" type="toc" %}
 
 <br>
