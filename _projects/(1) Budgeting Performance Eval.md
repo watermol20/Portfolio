@@ -41,10 +41,13 @@ Summary
 | Public Works       |  $41,224,909.62   |  $43,654,715.31   |  $55,211,386.56   |  $45,170,727.47   |  **$185,261,738.96**  |
 | Education          |  $12,898,518.95   |  $13,312,856.57   |  $14,391,023.53   |  $14,463,190.11   |  **$55,065,589.16**   |
 | **Total Result**       |  **$157,158,458.62**  |  **$141,432,243.16**  |  **$190,121,361.06**  |  **$188,302,773.79**  |  **$677,014,836.63**  |
-  
-- The general government spends the most money year over year  
-- The amount of money spent for education has increased every year in increments of  
-- The amount of money spent by public works has a general trend of decreasing expeditures  
+   
+- The general government spends the most money year over year
+- The amount of money paid for education has increased every year in increments of
+- The amount of money spent by public works has a general trend of decreasing expenditures
+
+
+
 
 | Item Class                          | 2013              | 2014             | 2015              | 2016              | **Total Result**      |
 |-------------------------------------|-------------------|------------------|-------------------|-------------------|-------------------|
@@ -64,7 +67,7 @@ Summary
 | Utilities expense                   |  $416,733.79      |  $383,728.33     |  $284,184.63      |  $304,934.16      |  **$1,389,580.91**    |
 | **Total Result**                        |  **$103,035,030.05**  |  **$84,464,671.28**  |  **$120,518,950.97**  |  **$128,668,856.21**  |  **$436,687,508.51**  |
 
-There is a general increase in expenditure over the years in the general government. This more specifically looks at what item class has the highest expenditures. A problem that can be visible in the pivot table is that the miscellaneous line item group uses almost 50% of the total money spent. This is a red flag for the general government group since there is no simple way for the accountants to see what they money was spent on, which means there could be something that is getting expensed to the group that should not be. 
+There is a general increase in expenditure over the years in the general government. This specifically looks at what item class has the highest expenditures. A problem that can be visible in the pivot table is that the miscellaneous line item group uses almost 50% of the total money spent. This is a red flag for the general government group since there is no simple way for the accountants to see what the money was spent on, which means there could be something that is getting expensed to the group that should not be. 
 
 | Expenditure (Item Class)            | Budget         | Actual         | Variance  $   | Variance  % (as an absolute value) |
 |-------------------------------------|----------------|----------------|---------------|------------------------------------|
