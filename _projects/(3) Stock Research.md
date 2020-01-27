@@ -12,7 +12,6 @@ The project was to find a stock, track it over the course of the semester and wr
 {% capture list_items %}
 Project Instructions
 Findings
-List
 {% endcapture %}
 {% include elements/list.html title="Table of Contents" type="toc" %}
 
