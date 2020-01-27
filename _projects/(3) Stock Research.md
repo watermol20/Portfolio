@@ -66,35 +66,35 @@ Go to the company’s website and look in the investor relations section for rep
 
 ##### Part A
 
-    1. Fortive Corp
-    2. FTV
-    3. NYSE
-    4. Everette, Washington
-    5. Separated into two segments: professional instrumentation (specialize in advanced measurement and monitoring to keep critical infrastructure up and running) and industrial technologies (supply high-tech equipment, components, software, an services to manufacturing, transportation and repair markets worldwide)
-    6. 24,000 worldwide employees
-    7. July 5, 2016
-    8. James (Jim) A Lico
-    9. Salary = $919,834 ; Compensation = $10,592,788
-    10. 116,014 shares valued at $8,021,207
-    11. Largest shareholder is Steven M. Rales with 8,787,277 shares valued at $607,552,358
-    12. 347.56 Million outstanding
-    13. Company pays a $0.07 quarterly dividend, 0.41%yeild
-    14. Current Stock Price $72.45
-    15. 52 week high = $76.68 ; 52 week low = $69.51
-    16. PE Ratio is 24.48
-    17. 2016 = $22.20 2017 = $20.70
-    18. Average is $21.79
-    19. Professional Instrumentation is 46.46% and Industrial Technologies has 53.54%
-    20. The average financial leverage of 2016 is 3.05 and in 2015 it was 1.39
-    21. The quick ratio is 1.47 and the current ratio is 1.83
-    22. We can measure their profitability to their EBIT, their EBIT was 365 million
-    23. Book value per share in 2016 was 7.77, their 2017 was not disclosed
-    24. Sales growth rate 2.84; EPS growth rate 5.94; Capital Spending growth rate 14.35; Dividend growth rate was only available for 1 year ahead is 100
-    25. Cognex Corp (CGNX), Trimble Inc (TRMB), Keysight Technologies Inc (KEYS)
+   1. Fortive Corp
+2. FTV
+3. NYSE
+4. Everette, Washington
+5. Separated into two segments: professional instrumentation (specialize in advanced measurement and monitoring to keep critical infrastructure up and running) and industrial technologies (high-tech supply equipment, components, software, and services to manufacturing, transportation and repair markets worldwide)
+6. 24,000 worldwide employees
+7. July 5th, 2016
+8. James (Jim) A Lico
+9. Salary = $919,834 ; Compensation = $10,592,788
+10. 116,014 shares valued at $8,021,207
+11. The largest shareholder is Steven M. Rales with 8,787,277 shares valued at $607,552,358
+12. 347.56 Million outstanding
+13. The company pays a $0.07 quarterly dividend, 0.41%yeild
+14. Current Stock Price $72.45
+15. 52 week high = $76.68 ; 52 week low = $69.51
+16. PE Ratio is 24.48
+17. 2016 = $22.20 2017 = $20.70
+18. The average is $21.79
+19. Professional Instrumentation is 46.46%, and Industrial Technologies has 53.54%
+20. The average financial leverage of 2016 is 3.05, and in 2015 it was 1.39
+21. The quick ratio is 1.47, and the current ratio is 1.83
+22. We can measure their profitability to their EBIT, and their EBIT was 365 million
+23. The book value per share in 2016 was 7.77. Their 2017 was not disclosed
+24. Sales growth rate 2.84; EPS growth rate 5.94; Capital Spending growth rate 14.35; the dividend growth rate was only available for 1 year ahead is 100
+25. Cognex Corp (CGNX), Trimble Inc (TRMB), Keysight Technologies Inc (KEYS)
 
 
-In the letter of the shareholders he talked about their growth rate and how they thank the stockholders for believing in them with the transition from being a part of their parent company Danaher, to becoming a split off from them with their own stocks being sold on the NYSE. He talked about the results from 2016 and how they plan to keep progressing into the following year with their dedication to always improving. The tone if this address was very upbeat and optimistic in the outlook of their company, which is fantastic since they haven’t been split off for that long. He mainly addressed how they will grow due to the constant improvement of the technology they have in the Fortive Business System. To see that they rely on it so much can be worry some in case there is a fault, but I also feel like if the continue to follow the Kaizen way of improvement they should be fairly stable. My main take away from this is that the CEO feels confident in his company and is ready to constantly make improvements to help the company keep growing.
+In the letter of the shareholders, he talked about their growth rate and how they thank the stockholders for believing in them with the transition from being a part of their parent company Danaher, to becoming a split off from them with their stocks being sold on the NYSE. He talked about the results from 2016 and how they plan to keep progressing into the following year with their dedication to always improving. The tone if this address was very upbeat and optimistic in the outlook of their company, which is fantastic since they haven't been split off for that long. He mainly addressed how they will grow due to the constant improvement of the technology they have in the Fortive Business System. To see that they rely on it so much can worry some in case there is a fault, but I also feel like if they continue to follow the Kaizen way of improvement, they should be fairly stable. My main take away from this is that the CEO feels confident in his company and is ready to constantly make improvements to help the company keep growing.
 
 ##### Part B
 
-From when I first started tracking my individual stock, Fortive (FTV), it was priced at $71.66 on February 5th and on May 2nd, almost three months later, my stock is priced at $71.52, decreasing by $0.14. The value of the S&P stock went from $2648.94 on February 5th to $2635.37 on May 2nd, decreasing $13.57 on these past three months. Relative to the S&P 500, they have had similar trends when comparing the graphs, but Fortive was less volatile with increases or decreases. Looking back, both stocks had an increasing trend up until March 9th where they both reached peak and then started to decline, Fortive decreased at a slow, consistent rate while the S&P had more sharp drops. Throughout these past three months there has not really been any major developments within Fortive, as they are still establishing their separate identity from their parent company Danaher and trying to maintain a stable stock.
+From when I first started tracking my stock, Fortive (FTV), it was priced at $71.66 on February 5th, and on May 2nd, almost three months later, my stock is priced at $71.52, decreasing by $0.14. The value of the S&P stock went from $2648.94 on February 5th to $2635.37 on May 2nd, decreasing $13.57 on these past three months. Relative to the S&P 500, they have had similar trends when comparing the graphs, but Fortive was less volatile with increases or decreases. Both stocks had an increasing trend up until March 9th where they both reached the peak and then started to decline, Fortive decreased at a slow, consistent rate while the S&P had more sharp drops. Throughout these past three months, there were not any significant developments within Fortive, as they are still establishing their separate identity from their parent company Danaher and trying to maintain a stable stock.
