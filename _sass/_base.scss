@@ -5,3 +5,16 @@ body {
 .badge {
   font-weight: 500;
 }
+
+.text-primary {
+  color: $primary !important;
+}
+
+.border-primary {
+  border-color: $primary !important;
+}
+
+.btn-outline-primary {
+  color: $primary;
+  border-color: $primary;
+}

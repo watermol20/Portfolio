@@ -142,3 +142,20 @@
     }
   }
 }
+
+.list-group-item.active {
+  background-color: $primary;
+  border-color: $primary;
+}
+
+.badge-primary {
+  background-color: $primary;
+}
+
+.badge-primary:focus, .badge-primary:hover {
+  background-color: $primary;
+}
+
+.bg-primary {
+  background-color: $primary !important;
+}
